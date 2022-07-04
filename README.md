@@ -2,7 +2,7 @@
 
 The goal of the shiny app is getting some visual insights about information related with bus stops and lines from the city of Madrid. To access to the interactive web app click on this [link](https://2nff1x-dnlmrtnc.shinyapps.io/shinyapp/).
 
-The [datasets](https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales) that contain this information are provided by the EMT in the following. The data was published in 2015 and is divided in 4 different topics:
+The [datasets](https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales) that contain this information are provided by the EMT. The data was published in 2015 and is divided in 4 different topics:
 
 * **Calendar**: contains information about the week days and seasons when each line is available. It will not be used for any visualization.
 * **Groups**: here we can find sets of lines that belong to the same group and a brief description of the purpose of each of them.
